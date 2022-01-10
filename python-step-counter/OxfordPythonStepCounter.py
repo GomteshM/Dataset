@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 PYTHON IMPLEMENTATION OF STEP COUNTER ALGORITHM
 
