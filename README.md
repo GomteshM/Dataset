@@ -7,7 +7,13 @@ Data set used to tune the algorithm and validate it.
 
 * `optimisation` contains the data used to optimised the parameters of the algorithm
 * `validation` contains the traces used to validate the algorithm as implemented in the app
-* `python-step-counter` contains ...
+* `python-step-counter` contains the python file used to validate the algorithm
+    PYTHON IMPLEMENTATION OF STEP COUNTER ALGORITHM
+    Algorithm based on oxford java step counter
+    (https://github.com/Oxford-step-counter/Java-Step-Counter)
+    Modifications:
+        Added plotting to compare steps data available in csv file and detected steps data
+    sample output of program is present at the end of python file as comments.
   
 ## License
 
