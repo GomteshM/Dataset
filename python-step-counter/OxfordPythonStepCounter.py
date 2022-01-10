@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 PYTHON IMPLEMENTATION OF STEP COUNTER ALGORITHM
 
@@ -12,7 +13,6 @@ sample output of program is present at the end as comments
 
 """
 
-import os
 import math
 import numpy as np
 import pandas as pd
@@ -474,13 +474,12 @@ def main():
                 'user2_armband_1506423383401.csv', 'user2_backpocket_1506422483834.csv', 'user2_bag_1506422838474.csv', \
                 'user2_frontpocket_1506422217391.csv', 'user2_hand_1506421987098.csv', 'user2_neckpouch_1506423094931.csv']
 
-    cur_Dir = os.getcwd()
-
 # =============================================================================
     # Sample: step detection for 1st csv file
-    folDir = cur_Dir + '/DataSet-master/DataSet-master/validation/' + CSV_Files[4]
+    folDir = '../validation/' + CSV_Files[4]
+    print(folDir)
     d = readCSVFile(folDir) # read the file
-    #run the algorithm
+    # run the algorithm
     steps, d1 = RunAlgo(rawData=d, threshold = 1.2, windowSize = 35, timeThreshold = 200, SKIPFILTER = False)
     op_str = ("steps detected by current algorithm : {}" + \
         "\n from data in current csv files ... \n\t steps detected by GTD: {}" + \
@@ -503,7 +502,7 @@ def main():
     # Step detection for all csv files
     # txtFileObj = open("OxfordAlgo_Results.txt","a")
     for fp in CSV_Files:
-        folDir = cur_Dir + '/DataSet-master/DataSet-master/validation/' + fp
+        folDir = '../validation/' + fp
         d = readCSVFile(folDir)
         steps, d1 = RunAlgo(rawData=d, threshold = 1.2, windowSize = 35, timeThreshold = 200, SKIPFILTER = False)
         op_str = ("\n\nFile name : {} \nsteps detected by current algorithm : {}" + \
@@ -521,7 +520,7 @@ def main():
 #     wd_values = np.arange(3, 52, 8)
 #     # txtFileObj = open("OxfordAlgo_Results.txt","a")
 #     for fp in CSV_Files:
-#         folDir = cur_Dir + '/DataSet-master/DataSet-master/validation/' + fp
+#         folDir = '../validation/' + fp
 #         d = readCSVFile(folDir)
 #         for i in th_values:
 #             for j in wd_values:
@@ -541,7 +540,8 @@ def main():
     
 if __name__ == '__main__':
     main()
-
+    
+    
 # =============================================================================
 # 
 # File name : user1_armband_1506423438471.csv 
@@ -616,4 +616,3 @@ if __name__ == '__main__':
 # 	 steps detected by GTD: 360
 # 	 steps detected by algorithm 348
 # =============================================================================
-
