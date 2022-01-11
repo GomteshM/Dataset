@@ -8,12 +8,12 @@ Data set used to tune the algorithm and validate it.
 * `optimisation` contains the data used to optimised the parameters of the algorithm
 * `validation` contains the traces used to validate the algorithm as implemented in the app
 * `python-step-counter` contains the python file used to validate the algorithm
-    PYTHON IMPLEMENTATION OF STEP COUNTER ALGORITHM
-    Algorithm based on oxford java step counter
-    (https://github.com/Oxford-step-counter/Java-Step-Counter)
+    
+    [Algorithm based on oxford java step counter](https://github.com/Oxford-step-counter/Java-Step-Counter)
+    
     Modifications:
-        Added plotting to compare steps data available in csv file and detected steps data
-    sample output of program is present at the end of python file as comments.
+        Added plotting to compare steps data available in csv file and detected steps data.
+    Sample output of program is present as text file.
   
 ## License
 
@@ -33,5 +33,17 @@ Under the following terms:
 - No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
   
 ## Getting started
-  
-  
+    
+The python algorithm is derived from oxford java step counter algorithm. Please read the references available on site 'https://oxford-step-counter.github.io/'
+
+Step detection algorithm consist of five steps:
+
+* Pre-processing stage
+* Filtering stage
+* Scoring stage
+* Detection stage
+* Post-processing stage
+    
+For each stage a separate function is defined. As stated in the reference file the optimal set of parameters are used for the step detection.
+    
+The notebook `OxfordPythonStepCounter.ipynb` is present in the folder `python-step-counter`. It contains all the description about how to execute this python file.
