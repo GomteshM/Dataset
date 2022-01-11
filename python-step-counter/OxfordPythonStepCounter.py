@@ -1,13 +1,12 @@
 """
 PYTHON IMPLEMENTATION OF STEP COUNTER ALGORITHM
 
-
 Algorithm based on oxford java step counter
 (https://github.com/Oxford-step-counter/Java-Step-Counter)
 
 Modifications:
     Added plotting to compare steps data available in csv file and detected steps data
-    
+
 sample output of program is present at the end as comments
 
 """
@@ -460,7 +459,7 @@ def AlgoPlot(d):
     # Plot steps by oxford java step counter algorithm
     ax3.plot(d["time"], d["steps_new_algo"], 'b')
     ax3.set_ylabel('New algo')
-    ax3.set_title("Steps detected by new oxford java step algorithm")
+    ax3.set_title("Steps detected by python step counter algorithm")
     plt.xlabel('time in ms')
     plt.show()
     # fig.savefig("OxfordAlgo_CSVFile1.png")
@@ -480,7 +479,7 @@ def main():
     d = readCSVFile(folDir) # read the file
     # run the algorithm
     steps, d1 = RunAlgo(rawData=d, threshold = 1.2, windowSize = 35, timeThreshold = 200, SKIPFILTER = False)
-    op_str = ("steps detected by current algorithm : {}" + \
+    op_str = ("steps detected by current python algorithm : {}" + \
         "\n from data in current csv files ... \n\t steps detected by GTD: {}" + \
         "\n\t steps detected by algorithm {}").format(steps, max(d["steps_GTD"]), max(d["steps_algo"]))            
     print(op_str)
@@ -498,18 +497,20 @@ def main():
 # =============================================================================
         
 # =============================================================================
-    # Step detection for all csv files
-    # txtFileObj = open("OxfordAlgo_Results.txt","a")
-    for fp in CSV_Files:
-        folDir = '../validation/' + fp
-        d = readCSVFile(folDir)
-        steps, d1 = RunAlgo(rawData=d, threshold = 1.2, windowSize = 35, timeThreshold = 200, SKIPFILTER = False)
-        op_str = ("\n\nFile name : {} \nsteps detected by current algorithm : {}" + \
-        "\n from data in current csv files ... \n\t steps detected by GTD: {}" + \
-            "\n\t steps detected by algorithm {}").format(fp, steps, max(d["steps_GTD"]), max(d["steps_algo"]))
-        print(op_str)
-        # txtFileObj.write(op_str)
-    # txtFileObj.close()
+# =============================================================================
+#     # Step detection for all csv files
+#     # txtFileObj = open("OxfordAlgo_Results.txt","a")
+#     for fp in CSV_Files:
+#         folDir = '../validation/' + fp
+#         d = readCSVFile(folDir)
+#         steps, d1 = RunAlgo(rawData=d, threshold = 1.2, windowSize = 35, timeThreshold = 200, SKIPFILTER = False)
+#         op_str = ("\n\nFile name : {} \nsteps detected by current python algorithm : {}" + \
+#         "\n from data in current csv files ... \n\t steps detected by GTD: {}" + \
+#             "\n\t steps detected by algorithm {}").format(fp, steps, max(d["steps_GTD"]), max(d["steps_algo"]))
+#         print(op_str)
+#         # txtFileObj.write(op_str)
+#     # txtFileObj.close()
+# =============================================================================
 # =============================================================================
 
 # =============================================================================
