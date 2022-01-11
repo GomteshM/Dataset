@@ -47,3 +47,5 @@ Step detection algorithm consist of five steps:
 For each stage a separate function is defined. As stated in the reference file the optimal set of parameters are used for the step detection.
     
 The notebook `OxfordPythonStepCounter.ipynb` is present in the folder `python-step-counter`. It contains all the description about how to execute this python file.
+    
+To run this notebook in colab, simply open the file and click on the **Open In Colab** Badge (<img src = "https://colab.research.google.com/assets/colab-badge.svg"> ) present at the top of file.
