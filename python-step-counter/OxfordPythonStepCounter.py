@@ -446,7 +446,7 @@ def AlgoPlot(d):
         
     stAlgo = np.array(stAlgo)
     stGTD = np.array(stGTD)
-    fig, (ax1, ax2, ax3) = plt.subplots(3,1,sharex=True, figsize=(30, 5))
+    fig, (ax1, ax2, ax3) = plt.subplots(3,1,sharex=True) #figsize=(30, 5))
     fig.suptitle('Steps detected by different tech')
     # Plot steps by Ground Truth Device
     ax1.plot(d["time"], stGTD, 'r')
