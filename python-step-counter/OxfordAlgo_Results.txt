@@ -1,0 +1,3851 @@
+File name : user1_armband_1506423438471.csv 
+steps detected by current algorithm : 315
+ from data in current csv files ... 
+	 steps detected by GTD: 335
+	 steps detected by algorithm 316
+
+File name : user1_backpocket_1506422470497.csv 
+steps detected by current algorithm : 504
+ from data in current csv files ... 
+	 steps detected by GTD: 343
+	 steps detected by algorithm 501
+
+File name : user1_bag_1506423095164.csv 
+steps detected by current algorithm : 328
+ from data in current csv files ... 
+	 steps detected by GTD: 346
+	 steps detected by algorithm 321
+
+File name : user1_frontpocket_1506422223341.csv 
+steps detected by current algorithm : 347
+ from data in current csv files ... 
+	 steps detected by GTD: 327
+	 steps detected by algorithm 338
+
+File name : user1_hand_1506421989895.csv 
+steps detected by current algorithm : 311
+ from data in current csv files ... 
+	 steps detected by GTD: 326
+	 steps detected by algorithm 311
+
+File name : user1_neckpouch_1506422851785.csv 
+steps detected by current algorithm : 345
+ from data in current csv files ... 
+	 steps detected by GTD: 346
+	 steps detected by algorithm 344
+
+File name : user2_armband_1506423383401.csv 
+steps detected by current algorithm : 337
+ from data in current csv files ... 
+	 steps detected by GTD: 343
+	 steps detected by algorithm 339
+
+File name : user2_backpocket_1506422483834.csv 
+steps detected by current algorithm : 349
+ from data in current csv files ... 
+	 steps detected by GTD: 337
+	 steps detected by algorithm 345
+
+File name : user2_bag_1506422838474.csv 
+steps detected by current algorithm : 383
+ from data in current csv files ... 
+	 steps detected by GTD: 361
+	 steps detected by algorithm 376
+
+File name : user2_frontpocket_1506422217391.csv 
+steps detected by current algorithm : 339
+ from data in current csv files ... 
+	 steps detected by GTD: 343
+	 steps detected by algorithm 340
+
+File name : user2_hand_1506421987098.csv 
+steps detected by current algorithm : 341
+ from data in current csv files ... 
+	 steps detected by GTD: 340
+	 steps detected by algorithm 341
+
+File name : user2_neckpouch_1506423094931.csv 
+steps detected by current algorithm : 348
+ from data in current csv files ... 
+	 steps detected by GTD: 360
+	 steps detected by algorithm 348
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  422 
+	 skip filter value as FALSE are : 353
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  367 
+	 skip filter value as FALSE are : 344
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 339
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  340 
+	 skip filter value as FALSE are : 338
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  335 
+	 skip filter value as FALSE are : 334
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  334 
+	 skip filter value as FALSE are : 334
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  335 
+	 skip filter value as FALSE are : 335
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  418 
+	 skip filter value as FALSE are : 351
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  361 
+	 skip filter value as FALSE are : 343
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  340 
+	 skip filter value as FALSE are : 338
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  339 
+	 skip filter value as FALSE are : 337
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  335 
+	 skip filter value as FALSE are : 332
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  333 
+	 skip filter value as FALSE are : 329
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  334 
+	 skip filter value as FALSE are : 332
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  412 
+	 skip filter value as FALSE are : 348
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  356 
+	 skip filter value as FALSE are : 338
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  337 
+	 skip filter value as FALSE are : 335
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  338 
+	 skip filter value as FALSE are : 331
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  332 
+	 skip filter value as FALSE are : 325
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  331 
+	 skip filter value as FALSE are : 325
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  332 
+	 skip filter value as FALSE are : 326
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  407 
+	 skip filter value as FALSE are : 343
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  354 
+	 skip filter value as FALSE are : 337
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  334 
+	 skip filter value as FALSE are : 332
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  334 
+	 skip filter value as FALSE are : 325
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  330 
+	 skip filter value as FALSE are : 321
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  327 
+	 skip filter value as FALSE are : 320
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  328 
+	 skip filter value as FALSE are : 322
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  399 
+	 skip filter value as FALSE are : 336
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 334
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  333 
+	 skip filter value as FALSE are : 326
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  327 
+	 skip filter value as FALSE are : 321
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  322 
+	 skip filter value as FALSE are : 315
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  319 
+	 skip filter value as FALSE are : 312
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  322 
+	 skip filter value as FALSE are : 312
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  390 
+	 skip filter value as FALSE are : 331
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  339 
+	 skip filter value as FALSE are : 331
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  330 
+	 skip filter value as FALSE are : 322
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  322 
+	 skip filter value as FALSE are : 313
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  316 
+	 skip filter value as FALSE are : 306
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  312 
+	 skip filter value as FALSE are : 302
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  312 
+	 skip filter value as FALSE are : 307
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  380 
+	 skip filter value as FALSE are : 328
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  336 
+	 skip filter value as FALSE are : 322
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  323 
+	 skip filter value as FALSE are : 318
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  316 
+	 skip filter value as FALSE are : 307
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  311 
+	 skip filter value as FALSE are : 297
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  302 
+	 skip filter value as FALSE are : 294
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  304 
+	 skip filter value as FALSE are : 297
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  370 
+	 skip filter value as FALSE are : 320
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  325 
+	 skip filter value as FALSE are : 316
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  320 
+	 skip filter value as FALSE are : 314
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  315 
+	 skip filter value as FALSE are : 305
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  302 
+	 skip filter value as FALSE are : 290
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  292 
+	 skip filter value as FALSE are : 280
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  296 
+	 skip filter value as FALSE are : 277
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  362 
+	 skip filter value as FALSE are : 307
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  313 
+	 skip filter value as FALSE are : 308
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  315 
+	 skip filter value as FALSE are : 309
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  307 
+	 skip filter value as FALSE are : 299
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  294 
+	 skip filter value as FALSE are : 279
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  284 
+	 skip filter value as FALSE are : 260
+
+File name : user1_armband_1506423438471.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  280 
+	 skip filter value as FALSE are : 262
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  539 
+	 skip filter value as FALSE are : 530
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  536 
+	 skip filter value as FALSE are : 520
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  518 
+	 skip filter value as FALSE are : 514
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  514 
+	 skip filter value as FALSE are : 511
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  513 
+	 skip filter value as FALSE are : 513
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  511 
+	 skip filter value as FALSE are : 506
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 506
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  538 
+	 skip filter value as FALSE are : 530
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  535 
+	 skip filter value as FALSE are : 519
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  518 
+	 skip filter value as FALSE are : 514
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  513 
+	 skip filter value as FALSE are : 511
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  512 
+	 skip filter value as FALSE are : 512
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 504
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 504
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  538 
+	 skip filter value as FALSE are : 530
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  535 
+	 skip filter value as FALSE are : 519
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  517 
+	 skip filter value as FALSE are : 513
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  513 
+	 skip filter value as FALSE are : 511
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  512 
+	 skip filter value as FALSE are : 511
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 502
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 501
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  538 
+	 skip filter value as FALSE are : 529
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  533 
+	 skip filter value as FALSE are : 516
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  517 
+	 skip filter value as FALSE are : 512
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  513 
+	 skip filter value as FALSE are : 509
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  511 
+	 skip filter value as FALSE are : 508
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 498
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  508 
+	 skip filter value as FALSE are : 494
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  534 
+	 skip filter value as FALSE are : 527
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  533 
+	 skip filter value as FALSE are : 515
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  515 
+	 skip filter value as FALSE are : 512
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  512 
+	 skip filter value as FALSE are : 509
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  511 
+	 skip filter value as FALSE are : 504
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  507 
+	 skip filter value as FALSE are : 493
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  508 
+	 skip filter value as FALSE are : 491
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  531 
+	 skip filter value as FALSE are : 526
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  532 
+	 skip filter value as FALSE are : 514
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  514 
+	 skip filter value as FALSE are : 510
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  511 
+	 skip filter value as FALSE are : 504
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 501
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  506 
+	 skip filter value as FALSE are : 479
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  506 
+	 skip filter value as FALSE are : 479
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  526 
+	 skip filter value as FALSE are : 524
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  531 
+	 skip filter value as FALSE are : 513
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  511 
+	 skip filter value as FALSE are : 506
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 498
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 491
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  506 
+	 skip filter value as FALSE are : 469
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  506 
+	 skip filter value as FALSE are : 464
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  523 
+	 skip filter value as FALSE are : 519
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  528 
+	 skip filter value as FALSE are : 511
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  509 
+	 skip filter value as FALSE are : 502
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  509 
+	 skip filter value as FALSE are : 496
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  507 
+	 skip filter value as FALSE are : 483
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  504 
+	 skip filter value as FALSE are : 459
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  503 
+	 skip filter value as FALSE are : 453
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  516 
+	 skip filter value as FALSE are : 517
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  522 
+	 skip filter value as FALSE are : 510
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  507 
+	 skip filter value as FALSE are : 498
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  506 
+	 skip filter value as FALSE are : 489
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  506 
+	 skip filter value as FALSE are : 471
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  500 
+	 skip filter value as FALSE are : 449
+
+File name : user1_backpocket_1506422470497.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  501 
+	 skip filter value as FALSE are : 443
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  444 
+	 skip filter value as FALSE are : 447
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  456 
+	 skip filter value as FALSE are : 442
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  436 
+	 skip filter value as FALSE are : 399
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  414 
+	 skip filter value as FALSE are : 374
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  395 
+	 skip filter value as FALSE are : 372
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  384 
+	 skip filter value as FALSE are : 350
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  363 
+	 skip filter value as FALSE are : 330
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  432 
+	 skip filter value as FALSE are : 446
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  453 
+	 skip filter value as FALSE are : 435
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  431 
+	 skip filter value as FALSE are : 393
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  405 
+	 skip filter value as FALSE are : 373
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  386 
+	 skip filter value as FALSE are : 364
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  376 
+	 skip filter value as FALSE are : 338
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  358 
+	 skip filter value as FALSE are : 321
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  422 
+	 skip filter value as FALSE are : 441
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  446 
+	 skip filter value as FALSE are : 429
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  423 
+	 skip filter value as FALSE are : 387
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  392 
+	 skip filter value as FALSE are : 362
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  380 
+	 skip filter value as FALSE are : 352
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  364 
+	 skip filter value as FALSE are : 320
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 307
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  414 
+	 skip filter value as FALSE are : 429
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  441 
+	 skip filter value as FALSE are : 419
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  412 
+	 skip filter value as FALSE are : 380
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  388 
+	 skip filter value as FALSE are : 355
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  370 
+	 skip filter value as FALSE are : 338
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  352 
+	 skip filter value as FALSE are : 300
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  337 
+	 skip filter value as FALSE are : 290
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  409 
+	 skip filter value as FALSE are : 421
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  434 
+	 skip filter value as FALSE are : 411
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  406 
+	 skip filter value as FALSE are : 376
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  380 
+	 skip filter value as FALSE are : 346
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  360 
+	 skip filter value as FALSE are : 328
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  343 
+	 skip filter value as FALSE are : 285
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  324 
+	 skip filter value as FALSE are : 267
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  399 
+	 skip filter value as FALSE are : 414
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  429 
+	 skip filter value as FALSE are : 406
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  400 
+	 skip filter value as FALSE are : 369
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  374 
+	 skip filter value as FALSE are : 338
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 314
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  339 
+	 skip filter value as FALSE are : 268
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  314 
+	 skip filter value as FALSE are : 251
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  393 
+	 skip filter value as FALSE are : 407
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  416 
+	 skip filter value as FALSE are : 397
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  395 
+	 skip filter value as FALSE are : 363
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  366 
+	 skip filter value as FALSE are : 331
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 305
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  325 
+	 skip filter value as FALSE are : 257
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  297 
+	 skip filter value as FALSE are : 239
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  384 
+	 skip filter value as FALSE are : 397
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  407 
+	 skip filter value as FALSE are : 384
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  386 
+	 skip filter value as FALSE are : 346
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  357 
+	 skip filter value as FALSE are : 326
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  335 
+	 skip filter value as FALSE are : 295
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  318 
+	 skip filter value as FALSE are : 246
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  287 
+	 skip filter value as FALSE are : 228
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  381 
+	 skip filter value as FALSE are : 387
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  399 
+	 skip filter value as FALSE are : 375
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  379 
+	 skip filter value as FALSE are : 333
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 316
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  328 
+	 skip filter value as FALSE are : 280
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  305 
+	 skip filter value as FALSE are : 228
+
+File name : user1_bag_1506423095164.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  276 
+	 skip filter value as FALSE are : 218
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  335 
+	 skip filter value as FALSE are : 355
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  332 
+	 skip filter value as FALSE are : 407
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  409 
+	 skip filter value as FALSE are : 447
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  421 
+	 skip filter value as FALSE are : 460
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  416 
+	 skip filter value as FALSE are : 405
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  381 
+	 skip filter value as FALSE are : 339
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  378 
+	 skip filter value as FALSE are : 329
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  316 
+	 skip filter value as FALSE are : 344
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  311 
+	 skip filter value as FALSE are : 404
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  403 
+	 skip filter value as FALSE are : 445
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  421 
+	 skip filter value as FALSE are : 456
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  407 
+	 skip filter value as FALSE are : 392
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  367 
+	 skip filter value as FALSE are : 334
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  363 
+	 skip filter value as FALSE are : 328
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  303 
+	 skip filter value as FALSE are : 331
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  291 
+	 skip filter value as FALSE are : 392
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  397 
+	 skip filter value as FALSE are : 439
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  416 
+	 skip filter value as FALSE are : 449
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  399 
+	 skip filter value as FALSE are : 378
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  361 
+	 skip filter value as FALSE are : 329
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  356 
+	 skip filter value as FALSE are : 324
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  289 
+	 skip filter value as FALSE are : 311
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  279 
+	 skip filter value as FALSE are : 383
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  387 
+	 skip filter value as FALSE are : 435
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  408 
+	 skip filter value as FALSE are : 439
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  391 
+	 skip filter value as FALSE are : 357
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 327
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 323
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  270 
+	 skip filter value as FALSE are : 299
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  264 
+	 skip filter value as FALSE are : 369
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  377 
+	 skip filter value as FALSE are : 426
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  402 
+	 skip filter value as FALSE are : 433
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  384 
+	 skip filter value as FALSE are : 347
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 326
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  338 
+	 skip filter value as FALSE are : 323
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  251 
+	 skip filter value as FALSE are : 279
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  252 
+	 skip filter value as FALSE are : 344
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  362 
+	 skip filter value as FALSE are : 411
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  395 
+	 skip filter value as FALSE are : 423
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  367 
+	 skip filter value as FALSE are : 338
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  330 
+	 skip filter value as FALSE are : 326
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  328 
+	 skip filter value as FALSE are : 323
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  238 
+	 skip filter value as FALSE are : 258
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  236 
+	 skip filter value as FALSE are : 328
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 403
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  387 
+	 skip filter value as FALSE are : 416
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  354 
+	 skip filter value as FALSE are : 335
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  324 
+	 skip filter value as FALSE are : 324
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  324 
+	 skip filter value as FALSE are : 323
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  229 
+	 skip filter value as FALSE are : 242
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  225 
+	 skip filter value as FALSE are : 298
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  323 
+	 skip filter value as FALSE are : 394
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  377 
+	 skip filter value as FALSE are : 400
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 332
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  323 
+	 skip filter value as FALSE are : 323
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  321 
+	 skip filter value as FALSE are : 321
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  223 
+	 skip filter value as FALSE are : 228
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  212 
+	 skip filter value as FALSE are : 267
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  290 
+	 skip filter value as FALSE are : 371
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  364 
+	 skip filter value as FALSE are : 383
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  333 
+	 skip filter value as FALSE are : 327
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 319
+
+File name : user1_frontpocket_1506422223341.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 319
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  408 
+	 skip filter value as FALSE are : 344
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 340
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  338 
+	 skip filter value as FALSE are : 333
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  333 
+	 skip filter value as FALSE are : 328
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  331 
+	 skip filter value as FALSE are : 324
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  327 
+	 skip filter value as FALSE are : 319
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  323 
+	 skip filter value as FALSE are : 317
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  407 
+	 skip filter value as FALSE are : 343
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 335
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  337 
+	 skip filter value as FALSE are : 331
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  331 
+	 skip filter value as FALSE are : 327
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  329 
+	 skip filter value as FALSE are : 321
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  326 
+	 skip filter value as FALSE are : 318
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  320 
+	 skip filter value as FALSE are : 316
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  403 
+	 skip filter value as FALSE are : 341
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 335
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  335 
+	 skip filter value as FALSE are : 330
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  331 
+	 skip filter value as FALSE are : 324
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  328 
+	 skip filter value as FALSE are : 320
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  322 
+	 skip filter value as FALSE are : 314
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  319 
+	 skip filter value as FALSE are : 315
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  399 
+	 skip filter value as FALSE are : 337
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 332
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  334 
+	 skip filter value as FALSE are : 328
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  330 
+	 skip filter value as FALSE are : 322
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  325 
+	 skip filter value as FALSE are : 313
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  322 
+	 skip filter value as FALSE are : 312
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 312
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  395 
+	 skip filter value as FALSE are : 336
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  341 
+	 skip filter value as FALSE are : 329
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  333 
+	 skip filter value as FALSE are : 321
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  330 
+	 skip filter value as FALSE are : 316
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  323 
+	 skip filter value as FALSE are : 311
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  319 
+	 skip filter value as FALSE are : 308
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 307
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  390 
+	 skip filter value as FALSE are : 333
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  334 
+	 skip filter value as FALSE are : 326
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  329 
+	 skip filter value as FALSE are : 320
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  327 
+	 skip filter value as FALSE are : 311
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  320 
+	 skip filter value as FALSE are : 308
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  319 
+	 skip filter value as FALSE are : 304
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  315 
+	 skip filter value as FALSE are : 304
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  382 
+	 skip filter value as FALSE are : 326
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  331 
+	 skip filter value as FALSE are : 324
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  325 
+	 skip filter value as FALSE are : 312
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  326 
+	 skip filter value as FALSE are : 302
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  318 
+	 skip filter value as FALSE are : 303
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  313 
+	 skip filter value as FALSE are : 300
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  311 
+	 skip filter value as FALSE are : 295
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  377 
+	 skip filter value as FALSE are : 323
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  328 
+	 skip filter value as FALSE are : 322
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  320 
+	 skip filter value as FALSE are : 305
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 298
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  315 
+	 skip filter value as FALSE are : 296
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  311 
+	 skip filter value as FALSE are : 292
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  308 
+	 skip filter value as FALSE are : 284
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  372 
+	 skip filter value as FALSE are : 320
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  324 
+	 skip filter value as FALSE are : 314
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 301
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  313 
+	 skip filter value as FALSE are : 294
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  311 
+	 skip filter value as FALSE are : 288
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  307 
+	 skip filter value as FALSE are : 288
+
+File name : user1_hand_1506421989895.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  301 
+	 skip filter value as FALSE are : 276
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  512 
+	 skip filter value as FALSE are : 467
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  507 
+	 skip filter value as FALSE are : 412
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  441 
+	 skip filter value as FALSE are : 366
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  388 
+	 skip filter value as FALSE are : 358
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  362 
+	 skip filter value as FALSE are : 348
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 347
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 347
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  510 
+	 skip filter value as FALSE are : 466
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  505 
+	 skip filter value as FALSE are : 407
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  438 
+	 skip filter value as FALSE are : 363
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  388 
+	 skip filter value as FALSE are : 356
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  359 
+	 skip filter value as FALSE are : 348
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 347
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 346
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  505 
+	 skip filter value as FALSE are : 453
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  504 
+	 skip filter value as FALSE are : 403
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  435 
+	 skip filter value as FALSE are : 359
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  385 
+	 skip filter value as FALSE are : 354
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  357 
+	 skip filter value as FALSE are : 347
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 347
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 345
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  502 
+	 skip filter value as FALSE are : 451
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  502 
+	 skip filter value as FALSE are : 399
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  429 
+	 skip filter value as FALSE are : 358
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  382 
+	 skip filter value as FALSE are : 352
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  357 
+	 skip filter value as FALSE are : 347
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 346
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 345
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  497 
+	 skip filter value as FALSE are : 448
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  499 
+	 skip filter value as FALSE are : 394
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  421 
+	 skip filter value as FALSE are : 357
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  380 
+	 skip filter value as FALSE are : 351
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  355 
+	 skip filter value as FALSE are : 345
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 345
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 343
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  489 
+	 skip filter value as FALSE are : 443
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  491 
+	 skip filter value as FALSE are : 390
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  415 
+	 skip filter value as FALSE are : 355
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  377 
+	 skip filter value as FALSE are : 349
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  355 
+	 skip filter value as FALSE are : 345
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 344
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 343
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  482 
+	 skip filter value as FALSE are : 428
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  485 
+	 skip filter value as FALSE are : 387
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  409 
+	 skip filter value as FALSE are : 354
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  375 
+	 skip filter value as FALSE are : 349
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  355 
+	 skip filter value as FALSE are : 342
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 343
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 342
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  471 
+	 skip filter value as FALSE are : 420
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  481 
+	 skip filter value as FALSE are : 383
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  404 
+	 skip filter value as FALSE are : 350
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  370 
+	 skip filter value as FALSE are : 346
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 341
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 341
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 340
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  457 
+	 skip filter value as FALSE are : 416
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  472 
+	 skip filter value as FALSE are : 377
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  400 
+	 skip filter value as FALSE are : 346
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  368 
+	 skip filter value as FALSE are : 344
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  350 
+	 skip filter value as FALSE are : 339
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  341 
+	 skip filter value as FALSE are : 338
+
+File name : user1_neckpouch_1506422851785.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  341 
+	 skip filter value as FALSE are : 335
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  385 
+	 skip filter value as FALSE are : 367
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  367 
+	 skip filter value as FALSE are : 364
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  369 
+	 skip filter value as FALSE are : 360
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  360 
+	 skip filter value as FALSE are : 357
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  359 
+	 skip filter value as FALSE are : 356
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  358 
+	 skip filter value as FALSE are : 354
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  357 
+	 skip filter value as FALSE are : 354
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  383 
+	 skip filter value as FALSE are : 364
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  364 
+	 skip filter value as FALSE are : 361
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  367 
+	 skip filter value as FALSE are : 355
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  359 
+	 skip filter value as FALSE are : 354
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  357 
+	 skip filter value as FALSE are : 354
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  358 
+	 skip filter value as FALSE are : 352
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  356 
+	 skip filter value as FALSE are : 353
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  379 
+	 skip filter value as FALSE are : 362
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  363 
+	 skip filter value as FALSE are : 359
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  365 
+	 skip filter value as FALSE are : 352
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  359 
+	 skip filter value as FALSE are : 352
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  357 
+	 skip filter value as FALSE are : 346
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  356 
+	 skip filter value as FALSE are : 349
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  355 
+	 skip filter value as FALSE are : 350
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  375 
+	 skip filter value as FALSE are : 359
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  362 
+	 skip filter value as FALSE are : 359
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  362 
+	 skip filter value as FALSE are : 351
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  358 
+	 skip filter value as FALSE are : 351
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  357 
+	 skip filter value as FALSE are : 344
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 343
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 349
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  373 
+	 skip filter value as FALSE are : 357
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  361 
+	 skip filter value as FALSE are : 357
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  362 
+	 skip filter value as FALSE are : 349
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  355 
+	 skip filter value as FALSE are : 345
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 337
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 342
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  352 
+	 skip filter value as FALSE are : 343
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  372 
+	 skip filter value as FALSE are : 356
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  359 
+	 skip filter value as FALSE are : 354
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  360 
+	 skip filter value as FALSE are : 348
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  355 
+	 skip filter value as FALSE are : 341
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 335
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  352 
+	 skip filter value as FALSE are : 333
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 340
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  370 
+	 skip filter value as FALSE are : 356
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  359 
+	 skip filter value as FALSE are : 351
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  358 
+	 skip filter value as FALSE are : 348
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  354 
+	 skip filter value as FALSE are : 341
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 330
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 327
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  350 
+	 skip filter value as FALSE are : 330
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  367 
+	 skip filter value as FALSE are : 354
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  359 
+	 skip filter value as FALSE are : 349
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  355 
+	 skip filter value as FALSE are : 343
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  354 
+	 skip filter value as FALSE are : 334
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 323
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 318
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 326
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  366 
+	 skip filter value as FALSE are : 353
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  359 
+	 skip filter value as FALSE are : 346
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  354 
+	 skip filter value as FALSE are : 341
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  352 
+	 skip filter value as FALSE are : 331
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 314
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 313
+
+File name : user2_armband_1506423383401.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 313
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  509 
+	 skip filter value as FALSE are : 422
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  483 
+	 skip filter value as FALSE are : 399
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  473 
+	 skip filter value as FALSE are : 372
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  472 
+	 skip filter value as FALSE are : 369
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  464 
+	 skip filter value as FALSE are : 366
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  454 
+	 skip filter value as FALSE are : 357
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  448 
+	 skip filter value as FALSE are : 351
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  507 
+	 skip filter value as FALSE are : 420
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  480 
+	 skip filter value as FALSE are : 394
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  469 
+	 skip filter value as FALSE are : 366
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  466 
+	 skip filter value as FALSE are : 360
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  461 
+	 skip filter value as FALSE are : 360
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  450 
+	 skip filter value as FALSE are : 353
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  445 
+	 skip filter value as FALSE are : 348
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  504 
+	 skip filter value as FALSE are : 414
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  476 
+	 skip filter value as FALSE are : 386
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  467 
+	 skip filter value as FALSE are : 359
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  460 
+	 skip filter value as FALSE are : 354
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  454 
+	 skip filter value as FALSE are : 357
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  449 
+	 skip filter value as FALSE are : 350
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  441 
+	 skip filter value as FALSE are : 347
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  503 
+	 skip filter value as FALSE are : 407
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  474 
+	 skip filter value as FALSE are : 381
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  463 
+	 skip filter value as FALSE are : 352
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  457 
+	 skip filter value as FALSE are : 348
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  451 
+	 skip filter value as FALSE are : 353
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  443 
+	 skip filter value as FALSE are : 346
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  434 
+	 skip filter value as FALSE are : 344
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  499 
+	 skip filter value as FALSE are : 400
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  468 
+	 skip filter value as FALSE are : 371
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  457 
+	 skip filter value as FALSE are : 341
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  453 
+	 skip filter value as FALSE are : 339
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  451 
+	 skip filter value as FALSE are : 349
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  439 
+	 skip filter value as FALSE are : 344
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  431 
+	 skip filter value as FALSE are : 341
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  499 
+	 skip filter value as FALSE are : 396
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  463 
+	 skip filter value as FALSE are : 364
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  449 
+	 skip filter value as FALSE are : 330
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  451 
+	 skip filter value as FALSE are : 334
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  447 
+	 skip filter value as FALSE are : 344
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  435 
+	 skip filter value as FALSE are : 341
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  428 
+	 skip filter value as FALSE are : 339
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  498 
+	 skip filter value as FALSE are : 387
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  461 
+	 skip filter value as FALSE are : 353
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  444 
+	 skip filter value as FALSE are : 323
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  449 
+	 skip filter value as FALSE are : 325
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  442 
+	 skip filter value as FALSE are : 336
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  431 
+	 skip filter value as FALSE are : 336
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  424 
+	 skip filter value as FALSE are : 335
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  493 
+	 skip filter value as FALSE are : 383
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  459 
+	 skip filter value as FALSE are : 345
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  441 
+	 skip filter value as FALSE are : 318
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  443 
+	 skip filter value as FALSE are : 312
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  438 
+	 skip filter value as FALSE are : 331
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  429 
+	 skip filter value as FALSE are : 331
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  422 
+	 skip filter value as FALSE are : 330
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  487 
+	 skip filter value as FALSE are : 379
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  458 
+	 skip filter value as FALSE are : 342
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  434 
+	 skip filter value as FALSE are : 308
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  439 
+	 skip filter value as FALSE are : 299
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  434 
+	 skip filter value as FALSE are : 321
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  426 
+	 skip filter value as FALSE are : 324
+
+File name : user2_backpocket_1506422483834.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  420 
+	 skip filter value as FALSE are : 319
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  400 
+	 skip filter value as FALSE are : 422
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  427 
+	 skip filter value as FALSE are : 427
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  432 
+	 skip filter value as FALSE are : 427
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  438 
+	 skip filter value as FALSE are : 431
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  421 
+	 skip filter value as FALSE are : 400
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  392 
+	 skip filter value as FALSE are : 376
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  380 
+	 skip filter value as FALSE are : 367
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  397 
+	 skip filter value as FALSE are : 421
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  422 
+	 skip filter value as FALSE are : 423
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  426 
+	 skip filter value as FALSE are : 423
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  436 
+	 skip filter value as FALSE are : 425
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  414 
+	 skip filter value as FALSE are : 398
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  388 
+	 skip filter value as FALSE are : 374
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  377 
+	 skip filter value as FALSE are : 366
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  389 
+	 skip filter value as FALSE are : 418
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  418 
+	 skip filter value as FALSE are : 420
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  423 
+	 skip filter value as FALSE are : 415
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  427 
+	 skip filter value as FALSE are : 419
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  411 
+	 skip filter value as FALSE are : 392
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  385 
+	 skip filter value as FALSE are : 371
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  374 
+	 skip filter value as FALSE are : 364
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  386 
+	 skip filter value as FALSE are : 413
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  412 
+	 skip filter value as FALSE are : 415
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  417 
+	 skip filter value as FALSE are : 413
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  422 
+	 skip filter value as FALSE are : 412
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  404 
+	 skip filter value as FALSE are : 387
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  384 
+	 skip filter value as FALSE are : 370
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  373 
+	 skip filter value as FALSE are : 364
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  379 
+	 skip filter value as FALSE are : 409
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  406 
+	 skip filter value as FALSE are : 407
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  414 
+	 skip filter value as FALSE are : 410
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  418 
+	 skip filter value as FALSE are : 406
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  402 
+	 skip filter value as FALSE are : 383
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  381 
+	 skip filter value as FALSE are : 369
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  373 
+	 skip filter value as FALSE are : 364
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  373 
+	 skip filter value as FALSE are : 404
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  400 
+	 skip filter value as FALSE are : 405
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  411 
+	 skip filter value as FALSE are : 406
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  414 
+	 skip filter value as FALSE are : 402
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  396 
+	 skip filter value as FALSE are : 379
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  379 
+	 skip filter value as FALSE are : 364
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  370 
+	 skip filter value as FALSE are : 362
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  365 
+	 skip filter value as FALSE are : 400
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  397 
+	 skip filter value as FALSE are : 400
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  407 
+	 skip filter value as FALSE are : 401
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  410 
+	 skip filter value as FALSE are : 394
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  394 
+	 skip filter value as FALSE are : 373
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  375 
+	 skip filter value as FALSE are : 362
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  369 
+	 skip filter value as FALSE are : 359
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  363 
+	 skip filter value as FALSE are : 395
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  395 
+	 skip filter value as FALSE are : 398
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  403 
+	 skip filter value as FALSE are : 397
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  398 
+	 skip filter value as FALSE are : 389
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  388 
+	 skip filter value as FALSE are : 367
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  373 
+	 skip filter value as FALSE are : 357
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  368 
+	 skip filter value as FALSE are : 355
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  357 
+	 skip filter value as FALSE are : 389
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  392 
+	 skip filter value as FALSE are : 393
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  400 
+	 skip filter value as FALSE are : 390
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  395 
+	 skip filter value as FALSE are : 377
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  383 
+	 skip filter value as FALSE are : 363
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  368 
+	 skip filter value as FALSE are : 354
+
+File name : user2_bag_1506422838474.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  363 
+	 skip filter value as FALSE are : 351
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  290 
+	 skip filter value as FALSE are : 299
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  290 
+	 skip filter value as FALSE are : 329
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  338 
+	 skip filter value as FALSE are : 344
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 345
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 343
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  277 
+	 skip filter value as FALSE are : 276
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  268 
+	 skip filter value as FALSE are : 315
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  332 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 345
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  267 
+	 skip filter value as FALSE are : 254
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  250 
+	 skip filter value as FALSE are : 306
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  320 
+	 skip filter value as FALSE are : 337
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 345
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  343 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 341
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  256 
+	 skip filter value as FALSE are : 238
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  234 
+	 skip filter value as FALSE are : 286
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  302 
+	 skip filter value as FALSE are : 335
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  336 
+	 skip filter value as FALSE are : 343
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  341 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  342 
+	 skip filter value as FALSE are : 342
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 341
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  246 
+	 skip filter value as FALSE are : 225
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  220 
+	 skip filter value as FALSE are : 266
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  280 
+	 skip filter value as FALSE are : 327
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  326 
+	 skip filter value as FALSE are : 335
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  335 
+	 skip filter value as FALSE are : 339
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  339 
+	 skip filter value as FALSE are : 340
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  340 
+	 skip filter value as FALSE are : 341
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  243 
+	 skip filter value as FALSE are : 203
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  215 
+	 skip filter value as FALSE are : 239
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  262 
+	 skip filter value as FALSE are : 322
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 331
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  323 
+	 skip filter value as FALSE are : 329
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  331 
+	 skip filter value as FALSE are : 335
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  337 
+	 skip filter value as FALSE are : 339
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  235 
+	 skip filter value as FALSE are : 194
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  203 
+	 skip filter value as FALSE are : 227
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  247 
+	 skip filter value as FALSE are : 309
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  300 
+	 skip filter value as FALSE are : 322
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 325
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  323 
+	 skip filter value as FALSE are : 326
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  330 
+	 skip filter value as FALSE are : 331
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  228 
+	 skip filter value as FALSE are : 188
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  195 
+	 skip filter value as FALSE are : 214
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  231 
+	 skip filter value as FALSE are : 291
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  279 
+	 skip filter value as FALSE are : 315
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  296 
+	 skip filter value as FALSE are : 315
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  310 
+	 skip filter value as FALSE are : 322
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  317 
+	 skip filter value as FALSE are : 325
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  226 
+	 skip filter value as FALSE are : 185
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  190 
+	 skip filter value as FALSE are : 196
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  221 
+	 skip filter value as FALSE are : 274
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  261 
+	 skip filter value as FALSE are : 304
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  275 
+	 skip filter value as FALSE are : 306
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  296 
+	 skip filter value as FALSE are : 313
+
+File name : user2_frontpocket_1506422217391.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  308 
+	 skip filter value as FALSE are : 317
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  417 
+	 skip filter value as FALSE are : 350
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  355 
+	 skip filter value as FALSE are : 347
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  350 
+	 skip filter value as FALSE are : 345
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 351
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  352 
+	 skip filter value as FALSE are : 346
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 341
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  342 
+	 skip filter value as FALSE are : 341
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  412 
+	 skip filter value as FALSE are : 349
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  353 
+	 skip filter value as FALSE are : 346
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  350 
+	 skip filter value as FALSE are : 345
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 349
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 346
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 341
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  340 
+	 skip filter value as FALSE are : 340
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  404 
+	 skip filter value as FALSE are : 349
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  352 
+	 skip filter value as FALSE are : 346
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  350 
+	 skip filter value as FALSE are : 345
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 348
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 344
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 340
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  340 
+	 skip filter value as FALSE are : 339
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  401 
+	 skip filter value as FALSE are : 349
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 346
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  350 
+	 skip filter value as FALSE are : 345
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  348 
+	 skip filter value as FALSE are : 348
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 343
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 339
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  340 
+	 skip filter value as FALSE are : 337
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  397 
+	 skip filter value as FALSE are : 347
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 344
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 344
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 346
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 341
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  342 
+	 skip filter value as FALSE are : 337
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  339 
+	 skip filter value as FALSE are : 336
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  396 
+	 skip filter value as FALSE are : 346
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 342
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  346 
+	 skip filter value as FALSE are : 340
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 342
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 339
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  341 
+	 skip filter value as FALSE are : 334
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  338 
+	 skip filter value as FALSE are : 335
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  388 
+	 skip filter value as FALSE are : 343
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  347 
+	 skip filter value as FALSE are : 340
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 339
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 338
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 334
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  339 
+	 skip filter value as FALSE are : 330
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  337 
+	 skip filter value as FALSE are : 329
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  384 
+	 skip filter value as FALSE are : 342
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  345 
+	 skip filter value as FALSE are : 336
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  343 
+	 skip filter value as FALSE are : 335
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  344 
+	 skip filter value as FALSE are : 335
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  342 
+	 skip filter value as FALSE are : 331
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  338 
+	 skip filter value as FALSE are : 327
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  336 
+	 skip filter value as FALSE are : 324
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  378 
+	 skip filter value as FALSE are : 340
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  341 
+	 skip filter value as FALSE are : 334
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  342 
+	 skip filter value as FALSE are : 333
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  341 
+	 skip filter value as FALSE are : 331
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  340 
+	 skip filter value as FALSE are : 325
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  335 
+	 skip filter value as FALSE are : 320
+
+File name : user2_hand_1506421987098.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  334 
+	 skip filter value as FALSE are : 317
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.0 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  470 
+	 skip filter value as FALSE are : 449
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.0 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  468 
+	 skip filter value as FALSE are : 430
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.0 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  447 
+	 skip filter value as FALSE are : 410
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.0 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  426 
+	 skip filter value as FALSE are : 396
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.0 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  406 
+	 skip filter value as FALSE are : 379
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.0 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  379 
+	 skip filter value as FALSE are : 371
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.0 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  371 
+	 skip filter value as FALSE are : 358
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.05 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  467 
+	 skip filter value as FALSE are : 444
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.05 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  465 
+	 skip filter value as FALSE are : 425
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.05 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  440 
+	 skip filter value as FALSE are : 406
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.05 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  423 
+	 skip filter value as FALSE are : 395
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.05 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  396 
+	 skip filter value as FALSE are : 371
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.05 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  378 
+	 skip filter value as FALSE are : 364
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.05 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  371 
+	 skip filter value as FALSE are : 354
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  463 
+	 skip filter value as FALSE are : 437
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  458 
+	 skip filter value as FALSE are : 418
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  434 
+	 skip filter value as FALSE are : 396
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  418 
+	 skip filter value as FALSE are : 381
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  393 
+	 skip filter value as FALSE are : 365
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  374 
+	 skip filter value as FALSE are : 356
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  368 
+	 skip filter value as FALSE are : 349
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  456 
+	 skip filter value as FALSE are : 428
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  447 
+	 skip filter value as FALSE are : 413
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  429 
+	 skip filter value as FALSE are : 390
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  412 
+	 skip filter value as FALSE are : 370
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  388 
+	 skip filter value as FALSE are : 358
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  372 
+	 skip filter value as FALSE are : 344
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.1500000000000001 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  365 
+	 skip filter value as FALSE are : 339
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  449 
+	 skip filter value as FALSE are : 420
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  444 
+	 skip filter value as FALSE are : 405
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  421 
+	 skip filter value as FALSE are : 388
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  403 
+	 skip filter value as FALSE are : 358
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  384 
+	 skip filter value as FALSE are : 348
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  372 
+	 skip filter value as FALSE are : 336
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2000000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  361 
+	 skip filter value as FALSE are : 331
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  444 
+	 skip filter value as FALSE are : 415
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  439 
+	 skip filter value as FALSE are : 399
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  417 
+	 skip filter value as FALSE are : 382
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  398 
+	 skip filter value as FALSE are : 351
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  381 
+	 skip filter value as FALSE are : 338
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  371 
+	 skip filter value as FALSE are : 318
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.2500000000000002 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  358 
+	 skip filter value as FALSE are : 318
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  440 
+	 skip filter value as FALSE are : 409
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  437 
+	 skip filter value as FALSE are : 391
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  415 
+	 skip filter value as FALSE are : 374
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  395 
+	 skip filter value as FALSE are : 343
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  379 
+	 skip filter value as FALSE are : 322
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  366 
+	 skip filter value as FALSE are : 306
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3000000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  354 
+	 skip filter value as FALSE are : 300
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  431 
+	 skip filter value as FALSE are : 403
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  430 
+	 skip filter value as FALSE are : 387
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  410 
+	 skip filter value as FALSE are : 358
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  391 
+	 skip filter value as FALSE are : 334
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  375 
+	 skip filter value as FALSE are : 307
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  361 
+	 skip filter value as FALSE are : 291
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.3500000000000003 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  351 
+	 skip filter value as FALSE are : 282
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 3 time threshold 200 ms 
+	 skip filter value as TRUE are :  427 
+	 skip filter value as FALSE are : 397
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 11 time threshold 200 ms 
+	 skip filter value as TRUE are :  425 
+	 skip filter value as FALSE are : 375
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 19 time threshold 200 ms 
+	 skip filter value as TRUE are :  405 
+	 skip filter value as FALSE are : 349
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 27 time threshold 200 ms 
+	 skip filter value as TRUE are :  385 
+	 skip filter value as FALSE are : 322
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 35 time threshold 200 ms 
+	 skip filter value as TRUE are :  372 
+	 skip filter value as FALSE are : 292
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 43 time threshold 200 ms 
+	 skip filter value as TRUE are :  356 
+	 skip filter value as FALSE are : 269
+
+File name : user2_neckpouch_1506423094931.csv 
+Steps detected for motion threshold 1.4000000000000004 and scoring window size 51 time threshold 200 ms 
+	 skip filter value as TRUE are :  349 
+	 skip filter value as FALSE are : 262
